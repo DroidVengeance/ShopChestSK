@@ -1,4 +1,5 @@
 # ShopChestSK
+Skript remake of the Spigot Resource <a href="https://www.spigotmc.org/resources/shopchest.11431/">ShopChest</a>
 
 <strong>Features:</strong>
 - Very simple shop interaction and creation
