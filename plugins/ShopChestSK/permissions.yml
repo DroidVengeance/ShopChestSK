@@ -1,0 +1,53 @@
+shopchest.*
+Gives access to all the below ShopChest permissions.
+​
+shopchest.create:
+Allows the player to create a buy and sell shop for all items
+​
+shopchest.create.buy:
+Allows the player to create a buy-shop.​
+
+shopchest.create.sell:
+Allows the player to create a sell-shop.​
+
+shopchest.create.admin:
+Allows the player to create an admin shop
+​
+shopchest.create.protected:
+Allows the player to create a shop on a protected chest
+​
+shopchest.buy:
+Allows the player to buy something
+​
+shopchest.sell:
+Allows the player to sell something
+​
+shopchest.openOther:
+Allows the player to open other players' shops
+​
+shopchest.remove.other:
+Allows the player to remove other players' shops
+​
+shopchest.reload:
+Allows the player to reload the shops
+​
+shopchest.remove.admin:
+Allows the player to remove an admin shop.
+​
+shopchest.notification.update:
+Allows the player to get update notifications on join
+​
+shopchest.update:
+Allows the player to check for updates​
+
+shopchest.config:
+Allows the player to change configuration values per command
+​
+shopchest.extend.other:
+Allows the player to extend other players' shops​
+
+shopchest.extend.protected:
+Allows the player to extend shops into a protected region of WorldGuard or Towny
+​
+shopchest.external.bypass:
+Allows the player to use shops in WorldGuard regions that deny shop use​
