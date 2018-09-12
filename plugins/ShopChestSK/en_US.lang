@@ -7,73 +7,73 @@
 
 # Set the message when a shop is created at the clicked chest.
 # Usable Placeholders: %CREATION-PRICE%
-message.shop-created=&6You were withdrawn &c%CREATION-PRICE% &6to create this shop.
+messageShopCreated: "&6You were withdrawn &c%CREATION-PRICE% &6to create this shop."
 
 # Set the message when an admin shop is created at the clicked chest.
 # Usable Placeholders: %CREATION-PRICE%
-message.admin-shop-created=&6You were withdrawn &c%CREATION-PRICE% &6to create this admin shop.
+messageAdminShopCreated: "&6You were withdrawn &c%CREATION-PRICE% &6to create this admin shop."
 
 # Set the message when the clicked chest already is a shop.
-message.chest-already-shop=&cChest already is shop.
+messageChestAlreadyShop: "&cChest already is shop."
 
 # Set the message when there is a block above the clicked chest.
-message.chest-blocked=&cThere must not be a block above the chest.
+messageChestBlocked: "&cThere must not be a block above the chest."
 
 # Set the message when a player tries to place a chest next to a shop's chest
 # to create a double chest shop, but there is a block above the placed chest.
-message.double-chest-blocked=&cThere must not be a block above the chest.
+messageDoubleChestBlocked: "&cThere must not be a block above the chest."
 
 # Set the message when the clicked shop is removed.
-message.shop-removed=&6Shop removed.
+messageShopRemoved: "&6Shop removed."
 
 # Set the message when all shops of a player were removed.
 # Usable Placeholders: %AMOUNT%, %VENDOR%
-message.all-shops-removed=&6Removed all (&c%AMOUNT%&6) shop/s of &c%VENDOR%&6.
+messageAllShopsRemoved: "&6Removed all (&c%AMOUNT%&6) shop/s of &c%VENDOR%&6."
 
 # Set the message when the clicked chest is not a shop.
-message.chest-no-shop=&cChest is not a shop.
+messageChestNoShop: "&cChest is not a shop."
 
 # Set the message when the player doesn't have enough money to create a shop
 # Usable Placeholders: %CREATION-PRICE%
-message.shop-create-not-enough-money=&cNot enough money. You need &6%CREATION-PRICE% &cto create a shop.
+messageShopCreateNotEnoughMoney: "&cNot enough money. You need &6%CREATION-PRICE% &cto create a shop."
 
 # Set the vendor message the player gets after entering '/shop info'.
 # Usable Placeholders: %VENDOR%
-message.shopInfo.vendor=&6Vendor: &e%VENDOR%
+messageShopInfoVendor: "&6Vendor: &e%VENDOR%"
 
 # Set the product message the player gets after entering '/shop info'.
 # Usable Placeholders: %AMOUNT%, %ITEMNAME%
-message.shopInfo.product=&6Product: &e%AMOUNT% x %ITEMNAME%
+messageShopInfoProduct: "&6Product: &e%AMOUNT% x %ITEMNAME%"
 
 # Set the in-stock message the player after entering '/shop info'.
 # Usable Placeholders=%STOCK%
-message.shopInfo.stock=&6In Stock: &e%STOCK%
+messageShopInfoStock: "&6In Stock: &e%STOCK%"
 
 # Set the enchantments message the player gets after entering '/shop info' if the product is enchanted
 # Usable Placeholders: %ENCHANTMENT%
-message.shopInfo.enchantments=&6Enchantments: &e%ENCHANTMENT%
+message.shopInfo.enchantments=&6Enchantments: &e%ENCHANTMENT%"
 
 # Set the potion effect message the player gets after entering '/shop info' if the product has a potion effect
 # Usable Placeholders: %POTION-EFFECT%, %EXTENDED%
-message.shopInfo.potion-effect=&6Potion Effect: &e%POTION-EFFECT% %EXTENDED%
+message.shopInfo.potion-effect=&6Potion Effect: &e%POTION-EFFECT% %EXTENDED%"
 
 # Set the music disc title message the player gets after entering '/shop info' if the product is a music disc
 # Usable Placeholders: %MUSIC-TITLE%
-message.shopInfo.music-disc-title=&6Music Disc Title: &e%MUSIC-TITLE%
+message.shopInfo.music-disc-title=&6Music Disc Title: &e%MUSIC-TITLE%"
 
 # Set the generation message the player gets after entering '/shop info' if the product is a written book
 # Usable Placeholders: %GENERATION%
-message.shopInfo.book-generation=&6Generation: &e%GENERATION%
+message.shopInfo.book-generation=&6Generation: &e%GENERATION%"
 
 # If the product is a tipped arrow but it doesn't have an effect, this gets displayed instead of the arrow effect
-message.shopInfo.none=&7None
+message.shopInfo.none=&7None"
 
 # Set the price message the player gets after entering '/shop info'.
 # Usable Placeholders: %BUY-PRICE%, %SELL-PRICE%
-message.shopInfo.price=&6Price: Buy: &e%BUY-PRICE%&6 Sell: &e%SELL-PRICE%
+message.shopInfo.price=&6Price: Buy: &e%BUY-PRICE%&6 Sell: &e%SELL-PRICE%"
 
 # If the sell price or buy price is disabled, this message will be displayed instead of the price in the message above.
-message.shopInfo.disabled=&7Disabled
+message.shopInfo.disabled=&7Disabled"
 
 # Set the type message the player gets after entering '/shop info' ...
 # ... when the shop is normal.
