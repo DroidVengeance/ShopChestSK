@@ -7,11 +7,11 @@
 
 # Set the message when a shop is created at the clicked chest.
 # Usable Placeholders: %CREATION-PRICE%
-messageShopCreated: "&6You were withdrawn &c%CREATION-PRICE% &6to create this shop."
+messageShopCreated: "&6You paid &c%CREATION-PRICE% &6to create this shop."
 
 # Set the message when an admin shop is created at the clicked chest.
 # Usable Placeholders: %CREATION-PRICE%
-messageAdminShopCreated: "&6You were withdrawn &c%CREATION-PRICE% &6to create this admin shop."
+messageAdminShopCreated: "&6You paid &c%CREATION-PRICE% &6to create this admin shop."
 
 # Set the message when the clicked chest already is a shop.
 messageChestAlreadyShop: "&cChest already is shop."
@@ -66,40 +66,40 @@ messageShopInfoMusicDiscTitle: "&6Music Disc Title: &e%MUSIC-TITLE%"
 messageShopInfoBookGeneration: "&6Generation: &e%GENERATION%"
 
 # If the product is a tipped arrow but it doesn't have an effect, this gets displayed instead of the arrow effect
-message.shopInfo.none=&7None"
+messageShopInfoNone: "&7None"
 
 # Set the price message the player gets after entering '/shop info'.
 # Usable Placeholders: %BUY-PRICE%, %SELL-PRICE%
-message.shopInfo.price=&6Price: Buy: &e%BUY-PRICE%&6 Sell: &e%SELL-PRICE%"
+messageShopInfoPrice: "&6Price: Buy: &e%BUY-PRICE%&6 Sell: &e%SELL-PRICE%"
 
 # If the sell price or buy price is disabled, this message will be displayed instead of the price in the message above.
-message.shopInfo.disabled=&7Disabled"
+messageShopInfoDisabled: "&7Disabled"
 
 # Set the type message the player gets after entering '/shop info' ...
 # ... when the shop is normal.
-message.shopInfo.is-normal=&6Type: &eNormal
+messageShopInfoIsNormal: "&6Type: &eNormal"
 
 # ... when the shop is an admin shop.
-message.shopInfo.is-admin=&6Type: &eAdmin
+messageShopInfoIsAdmin: "&6Type: &eAdmin"
 
 # If the potion effect it extended, %EXTENDED% will be replaced by this.
 # If not, this will be empty.
-message.shopInfo.extended=(Extended)
+messageShopInfoExtended: "(Extended)"
 
 # Set the message when the player tries to create a shop with sell price and buy price set to 0
-message.buy-and-sell-disabled=&cYou can't create a shop with buying and selling disabled.
+messageBuyAndSellDisabled: "&cYou can't create a shop with buying and selling disabled."
 
 # Set the message when the player successfully bought something.
 # Usable Placeholders: %AMOUNT%, %ITEMNAME%, %BUY-PRICE%, %VENDOR%
-message.buy-success=&aYou bought &6%AMOUNT% x %ITEMNAME%&a for &6%BUY-PRICE%&a from &6%VENDOR%&a.
+messageBuySuccess: "&aYou bought &6%AMOUNT% x %ITEMNAME%&a for &6%BUY-PRICE%&a from &6%VENDOR%&a."
 
 # Set the message when the player successfully bought something from an admin shop.
 # Usable Placeholders: %AMOUNT%, %ITEMNAME%, %BUY-PRICE%
-message.buy-success-admin=&aYou bought &6%AMOUNT% x %ITEMNAME%&a for &6%BUY-PRICE%&a.
+messageBuySuccessAdmin: "&aYou bought &6%AMOUNT% x %ITEMNAME%&a for &6%BUY-PRICE%&a."
 
 # Set the message when the player successfully sold something.
 # Usable Placeholders: %AMOUNT%, %ITEMNAME%, %SELL-PRICE%, %VENDOR%
-message.sell-success=&aYou sold &6%AMOUNT% x %ITEMNAME%&a for &6%SELL-PRICE%&a to &6%VENDOR%&a.
+messageSellSuccess: "&aYou sold &6%AMOUNT% x %ITEMNAME%&a for &6%SELL-PRICE%&a to &6%VENDOR%&a."
 
 # Set the message when the player successfully sold something to an admin shop.
 # Usable Placeholders: %AMOUNT%, %ITEMNAME%, %SELL-PRICE%
